@@ -1,13 +1,13 @@
 {
   "name": "alt-img-service",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "A service to expose Microsoft Computer Vision api",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "adi.biton@gmail.com",
   "license": "ISC",
   "dependencies": {
     "body-parser": "~1.15.2",
@@ -15,6 +15,6 @@
     "request": "~2.78.0"
   },
   "devDependencies": {
-    "dotenv": "^2.0.0"
+    "dotenv": "~2.0.0"
   }
 }
