@@ -4,6 +4,7 @@
   "description": "A service to expose Microsoft Computer Vision api",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "node_modules/.bin/mocha"
   },
   "keywords": [],
